@@ -1,24 +1,17 @@
 {
-        "embed": {
-            "title": "RoomieOfficial",
-            "description": "Joel Gustaf Berghult better known as Roomie or Lil Pitchy, is a Swedish singer, songwriter, producer, YouTuber and comedian. He is best known for his YouTube channel RoomieOfficial, which consists of music commentary, original songs, covers, and more music-related content. He has posted several viral videos and collaborations with PewDiePie and Boyinaband. His most popular video is \"One Guy, 43 Voices\", featuring vocal imitations of singers such as Justin Bieber, Charlie Puth, and Brendon Urie. His YouTube channel has over 6.9 million subscribers as of January 2021",
-            "color": 15114050,
-            "footer": {
-                "icon_url": "https://github.com/ajsix/sponsor/main/server.gif",
-                "text": "RoomieOfficial"
-            },
-            "thumbnail": {
-                "url": "https://github.com/ajsix/sponsor/main/server.gif"
-            },
-            "fields": [
-                {
-                    "name": "Subscribe!",
-                    "value": "[**Click Here**](https://www.youtube.com/channel/RoomieOfficial)"
-                },
-                {
-                    "name": "Discord Server!",
-                    "value": "[**Click Here**](https://discord.gg/roomie)"
-                }
-            ]
-        }
+   "embed": {
+      "title": "RoomieOfficial",
+      "description": "Joel Gustaf Berghult better known as Roomie or Lil Pitchy, is a Swedish singer, songwriter, producer, YouTuber and comedian. He is best known for his YouTube channel RoomieOfficial, which consists of music commentary, original songs, covers, and more music-related content. He has posted several viral videos and collaborations with PewDiePie and Boyinaband. His most popular video is \"One Guy, 43 Voices\", featuring vocal imitations of singers such as Justin Bieber, Charlie Puth, and Brendon Urie. His YouTube channel has over 6.9 million subscribers as of January 2021",
+      "color": 
+      "thumbnail": {
+            "url": "https://i.imgur.com/cs2QEcp.png"
+       },
+      "fields": [
+          {
+             "name": "Discord Server!",
+             "value": "[**Click here**](https://discord.gg/roomie)"
+          }
+       ]
+   }
 }
+
